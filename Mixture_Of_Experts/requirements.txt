@@ -1,0 +1,4 @@
+torch>=2.1
+gradio>=5.0
+matplotlib>=3.7
+pytest>=7.0
